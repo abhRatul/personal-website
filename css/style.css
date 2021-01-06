@@ -13,9 +13,16 @@ h1{
 .section-one h1{
     font-size: 80px;
 }
-.h1-color{
+.h1-color {
     color: #363958;
 }
+
+h3,h2{
+    color:#363958; ;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
 .half-width p{
     margin-bottom: 40px;
 }
@@ -96,6 +103,11 @@ section{
     float: right;
   margin-right: 10%;
   margin-top: 60px;
-    
-
+}
+.section-five{
+    text-align: center;
+    height: 250px;
+}
+.div2 img{
+    width: 2.5%;
 }
